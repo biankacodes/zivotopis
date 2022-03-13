@@ -1,0 +1,66 @@
+body { 
+    color: black ;
+        background-color: whitesmoke;
+        font-size: 20px;
+        line-height: 1;
+        margin-left: 80px;
+        font-family: 'Open Sans', sans-serif;
+}
+
+.blanka {
+    width: 150px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+img { border: 4px solid darkolivegreen; }
+
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+    text-decoration-color: darkolivegreen;
+}
+
+.obrazek {
+    margin: 20px;
+}
+
+.mininadpisy {
+    font-weight: bold;
+}
+
+.pracovni {
+    margin-bottom: 80px;
+}
+
+.vzdelani {
+    margin-bottom: 80px;
+}
+
+.certifikace {
+    margin-bottom: 80px;
+}
+
+.tabulka {
+    line-height: 1.5;
+}
+
+.paticka {
+    font-size: 10px;
+}
+
+.info {
+   font-style: italic;
+   font-size: 16px
+}
+
+.workshopy {
+    font-style:italic;
+}
